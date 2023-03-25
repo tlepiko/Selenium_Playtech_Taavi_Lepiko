@@ -12,7 +12,7 @@ public class CheckInternship {
 	public static void main(String[] args) {
 		
 		//Get Chrome driver location.
-		System.setProperty("webdriver.chrome.driver","C:\\Users\\Taavi\\Downloads\\Selenium project files\\chromedriver_win32\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver","Chrome_Driver\\chromedriver.exe");
 		
 		
 		//Set Chrome options to enable control by 3rd party applications.
